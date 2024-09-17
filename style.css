@@ -55,4 +55,14 @@ a, ul{
         height: 250px;
         
     }
+    .navbar{
+        padding: 10px 30px !important;
+    }
+    .navbar ul{
+        display: none;
+    }
+    .card2{
+        margin: 20px 0px;
+    }
+    
   }
